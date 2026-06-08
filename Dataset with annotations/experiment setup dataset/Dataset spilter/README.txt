@@ -1,0 +1,1 @@
+If you've combined Dataset like (images and labels) in  one folder, then use the 'yolo_detection_dataset_split.py' code to split the dataset appropriately. Beforehand, have a look at the code and familiarise yourself with the code and proceed.
