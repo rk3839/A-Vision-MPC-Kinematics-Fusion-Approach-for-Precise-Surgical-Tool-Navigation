@@ -1,0 +1,11 @@
+ROS OS and packages requirements
+
+Install the ROS Noetic or later version
+
+Install the listed packages using 'pip' commend. Choose an appropriate version for all packages for your system compatibility.
+
+numpy
+scipy
+matplotlib
+pandas
+opencv
