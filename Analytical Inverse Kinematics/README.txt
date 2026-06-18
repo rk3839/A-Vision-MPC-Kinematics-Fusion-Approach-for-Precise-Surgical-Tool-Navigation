@@ -5,4 +5,4 @@ Later you've to launch the open_manipulaotr_controller, which enable the robotic
 
 Now, the given 'ik_analytical_1.py' control the robotic arm.
 
-\textbf{This whole work carried out in ROS-1. You may face any technical issue in newer version.}
+This whole work carried out in ROS-1. You may face any technical issue in newer version.
