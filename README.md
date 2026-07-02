@@ -13,10 +13,10 @@ This research work propose a innovative approach for planning and controlling th
 ### 🔬 Code Updates
 This page provides latest updated version code (nodes only, no launch file). Old version code and file are outdated, if you need to obtain similar output shown in the manuscript or trying to replicate this work in ROS-2, then please feel free to approach me. But I'll highly recommend to try it on yourself (including designing your own launch file), play with the code for learning purpose 📚.
 
-#### 📦 Package Installation
+### 📦 Package Installation
 **For ROS-1 users**: Install the required packages for using the `requirements.txt`. 
 
-#### ⚠️ Warning
+### ⚠️ Warning
 This work is developed and demonstrated in **ROS-1 (noetic)**.<br\>
 You may encounter issues in **ROS-2**, like version compatibility errors.
 
