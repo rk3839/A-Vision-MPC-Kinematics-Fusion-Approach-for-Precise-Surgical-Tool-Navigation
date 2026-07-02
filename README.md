@@ -10,8 +10,6 @@ This research work propose a innovative approach for planning and controlling th
 <video src="https://github.com/user-attachments/assets/44f92b0a-b343-4a41-969b-d7dd1ee61bda" width="100%" controls>
 </video>
 
-![Video](https://github.com/user-attachments/assets/44f92b0a-b343-4a41-969b-d7dd1ee61bda)
-
 ### 🔬 Code Updates
 This page provides latest updated version code (nodes only, no launch file). Old version code and file are outdated, if you need to obtain similar output shown in the manuscript or trying to replicate this work in ROS-2, then please feel free to approach me. But I'll highly recommend to try it on yourself (including designing your own launch file), play with the code for learning purpose 📚.
 
