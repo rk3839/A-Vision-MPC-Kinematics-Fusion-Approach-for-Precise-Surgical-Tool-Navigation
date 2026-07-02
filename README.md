@@ -1,4 +1,4 @@
-#🤖 Project Title:
+# 🤖 Project Title:
 **A-Vision-MPC-Kinematics-Fusion-Approach-for-Precise-Surgical-Tool-Navigation**
 
 **🎯 Project Synopsis**: A real-time collision-free path planning and controlling (navigation) approach for robotic system with visual feedback.
