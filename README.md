@@ -17,7 +17,7 @@ This page provides latest updated version code (nodes only, no launch file). Old
 **For ROS-1 users**: Install the required packages for using the `requirements.txt`. 
 
 ### ⚠️ Warning
-This work is developed and demonstrated in **ROS-1 (noetic)**.<br\>
+This work is developed and demonstrated in **ROS-1 (noetic)**.<br>
 You may encounter issues in **ROS-2**, like version compatibility errors.
 
 #### 📢 Public Surgical Datasets
